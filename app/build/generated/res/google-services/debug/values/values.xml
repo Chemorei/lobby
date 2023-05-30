@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">295016524051-guq6njqc5hh6uvej6d4vlub92v81qpv8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">295016524051</string>
+    <string name="google_api_key" translatable="false">AIzaSyDsNX7cT8NJ23-oEtUKQZ7K04r0QtElzCM</string>
+    <string name="google_app_id" translatable="false">1:295016524051:android:42ab7b725d22bb851952e6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDsNX7cT8NJ23-oEtUKQZ7K04r0QtElzCM</string>
+    <string name="google_storage_bucket" translatable="false">whispr1.appspot.com</string>
+    <string name="project_id" translatable="false">whispr1</string>
+</resources>
